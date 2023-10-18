@@ -48,7 +48,7 @@ make more than
 
 ## Deliverables
 
-You are going to build a JavaScript application which searches GitHub for users
+`You are going to build a JavaScript application which searches GitHub for users
 by name and displays the results on the screen. Clicking on a specific user will
 show all the repositories for that user.
 
@@ -62,7 +62,7 @@ show all the repositories for that user.
    [User Repos Endpoint](#user-repos-endpoint) and return data about all the
    repositories for that user.
 4. Using the response from the Users Repos Endpoint, display all the
-   repositories for that user on the page.
+   repositories for that user on the page.`
 
 ## Bonus
 
