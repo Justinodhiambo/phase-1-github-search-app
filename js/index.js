@@ -1,4 +1,4 @@
-// GitHub access token if available
+// GitHub access 
 const GITHUB_API_TOKEN = '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';
 const apiUrl = 'https://api.github.com';
 
